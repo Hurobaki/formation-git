@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Ok Boss tout ce que vous voulez.
 Je suis revenu à la ligne aussi.
+=======
+ok Boss
+>>>>>>> [Add | ok.txt] 5/5 a la formation git
